@@ -1,0 +1,15 @@
+Proyecto final/checkpoints/mejor_modelo_dropout_0.2.keras
+Proyecto final/checkpoints/mejor_modelo_dropout_0.5.keras
+Proyecto final/checkpoints/mejor_modelo_dropout_0.8.keras
+Proyecto final/idealista18_data/Barcelona_Sale.rda
+Proyecto final/idealista18_data/Madrid_Sale.rda
+Proyecto final/idealista18_data/Valencia_Sale.rda
+Proyecto final/logs/dropout_0.2/20260414-174114/train/events.out.tfevents.1776181274.3MASANZ-A21E04.8952.0.v2
+Proyecto final/logs/dropout_0.2/20260414-174237/train/events.out.tfevents.1776181357.3MASANZ-A21E04.8952.1.v2
+Proyecto final/logs/dropout_0.2/20260414-174237/validation/events.out.tfevents.1776181364.3MASANZ-A21E04.8952.2.v2
+Proyecto final/logs/dropout_0.2/20260414-185551/train/events.out.tfevents.1776185751.3MASANZ-A21E04.8952.3.v2
+Proyecto final/logs/dropout_0.2/20260414-185551/validation/events.out.tfevents.1776185758.3MASANZ-A21E04.8952.4.v2
+Proyecto final/logs/dropout_0.5/20260414-190640/train/events.out.tfevents.1776186400.3MASANZ-A21E04.8952.5.v2
+Proyecto final/logs/dropout_0.5/20260414-190640/validation/events.out.tfevents.1776186407.3MASANZ-A21E04.8952.6.v2
+Proyecto final/logs/dropout_0.8/20260414-191344/train/events.out.tfevents.1776186824.3MASANZ-A21E04.8952.7.v2
+Proyecto final/logs/dropout_0.8/20260414-191344/validation/events.out.tfevents.1776186831.3MASANZ-A21E04.8952.8.v2
